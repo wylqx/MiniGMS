@@ -1,6 +1,6 @@
 LOCAL_PATH := $(my-dir)
 
-USE_REAL_PLAYSTORE := true
+USE_REAL_PLAYSTORE := false
 
 ##############################
 $(shell mkdir -p $(PRODUCT_OUT)/system)
