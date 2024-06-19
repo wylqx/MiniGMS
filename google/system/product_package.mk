@@ -1,2 +1,4 @@
+LOCAL_PATH := $(call my-dir)
+
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/*:system/
+    $(wildcard $(LOCAL_PATH)/*:system/)
