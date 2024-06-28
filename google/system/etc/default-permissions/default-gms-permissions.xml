@@ -60,5 +60,30 @@
     <exception package="com.android.vending">
         <permission name="android.permission.FAKE_PACKAGE_SIGNATURE" fixed="true"/>
     </exception>
+
+    <exception package="cm.aptoidetv.pt">
+        <permission name="android.permission.INTERNET" fixed="true"/>
+        <permission name="android.permission.ACCESS_NETWORK_STATE" fixed="true"/>
+        <permission name="android.permission.ACCESS_COARSE_LOCATION" fixed="true"/>
+        <permission name="android.permission.ACCESS_FINE_LOCATION" fixed="true"/>
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED" fixed="true"/>
+        <permission name="android.permission.RECORD_AUDIO" fixed="true"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" fixed="true"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE" fixed="true"/>
+        <permission name="android.permission.GET_ACCOUNTS" fixed="true"/>
+        <permission name="android.permission.AUTHENTICATE_ACCOUNTS" fixed="true"/>
+        <permission name="android.permission.MANAGE_ACCOUNTS" fixed="true"/>
+        <permission name="android.permission.USE_CREDENTIALS" fixed="true"/>
+        <permission name="android.permission.READ_SYNC_SETTINGS" fixed="true"/>
+        <permission name="android.permission.WRITE_SYNC_SETTINGS" fixed="true"/>
+        <permission name="android.permission.ACCESS_SUPERUSER" fixed="true"/>
+        <permission name="android.permission.INSTALL_PACKAGES" fixed="true"/>
+        <permission name="android.permission.REQUEST_INSTALL_PACKAGES" fixed="true"/>
+        <permission name="android.permission.CHANGE_WIFI_MULTICAST_STATE" fixed="true"/>
+        <permission name="android.permission.ACCESS_WIFI_STATE" fixed="true"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS" fixed="true"/>
+        <permission name="android.permission.READ_PHONE_STATE" fixed="true"/>
+        <permission name="android.permission.READ_EXTERNAL_STORAGE" fixed="true"/>
+    </exception>
 </exceptions>
 
