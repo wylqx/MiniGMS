@@ -1,4 +1,5 @@
 Usage Instructions:
+
 1、Integrate the LineageOS patches. The link is as follows:
     https://review.lineageos.org/q/repo:LineageOS/android_frameworks_base+status:merged+subject:microG
 
