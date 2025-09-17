@@ -4,8 +4,11 @@ Usage Instructions:
     https://review.lineageos.org/q/repo:LineageOS/android_frameworks_base+status:merged+subject:microG
 
 Android 11 -> LineageOS 18.1
+
 Android 12 -> LineageOS 19.0
+
 Android 13 -> LineageOS 20
+
 Android 14 -> LineageOS 21 
 
 2、Replace the MICROG_REAL_SIGNATURE constant in the LineageOS patch:
